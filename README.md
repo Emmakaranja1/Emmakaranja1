@@ -1,3 +1,4 @@
+
 # Hi, I'm Emma Karanja 👋  
 💻 Software Developer  
 
@@ -41,4 +42,6 @@ I completed a software engineering bootcamp at **Moringa School**, focused on fu
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Email" />
   </a>
 </p>
+
+
 
