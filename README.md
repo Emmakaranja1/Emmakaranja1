@@ -28,7 +28,7 @@ I completed a software engineering bootcamp at **Moringa School**, focused on fu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -59,7 +59,7 @@ I completed a software engineering bootcamp at **Moringa School**, focused on fu
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Email" />
   </a>
   <a href="https://emma-s-portfolio-nu.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-personal-portfolio-for-a-software-engineer-or-digital-designer-logo-color-tal-revivo.png" height="40" alt="Portfolio Website" />
+     <img src="https://img.icons8.com/fluency/48/domain.png" height="40" alt="Portfolio Website" />
   </a>
 </p>
 
