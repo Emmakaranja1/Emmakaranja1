@@ -1,13 +1,7 @@
 
-# Hi, I'm Emma Karanja 👋  
-💻 Software Developer  
+👋 Hi, I'm Emma
 
-I completed a software engineering bootcamp at **Moringa School**, focused on full-stack development.
-
-- 🌍 I'm based in **Nairobi, Kenya**  
-- ✉️ You can contact me via any social media channel  
-- 🤝 I'm open to collaborating on new technologies and contributing to open-source projects  
-- ⚡ I learn things fast and I'm an open-minded individual  
+I'm a Software Engineer and AI Enthusiast passionate about building scalable applications, solving complex problems, and continuously learning new technologies. I enjoy working across the stack, with a strong focus on backend engineering, frontend development, DevOps practices, and user-centered design.
 
 ## 🛠️ Skills  
 
