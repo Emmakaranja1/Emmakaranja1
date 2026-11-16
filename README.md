@@ -13,7 +13,7 @@
 
 <br />
 
-<a href="https://emmakaranja.com"><img src="https://img.shields.io/badge/Portfolio-emmakaranja.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://emma-portfolios.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-emmakaranja.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/emma-k-karanja/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@karanjaemmak"><img src="https://img.shields.io/badge/Medium-Read-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:karanjaemmak@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
