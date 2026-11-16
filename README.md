@@ -166,7 +166,7 @@ I'm **open to backend, full-stack, system architecture, and product engineering 
 
 <div align="center">
 
-<a href="https://emmakaranja.com"><img src="https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://emma-portfolios.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/emma-k-karanja/"><img src="https://img.shields.io/badge/💼_LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://medium.com/@karanjaemmak"><img src="https://img.shields.io/badge/✍️_Medium-111111?style=for-the-badge" alt="Medium" /></a>
 <a href="mailto:karanjaemmak@gmail.com"><img src="https://img.shields.io/badge/📧_Email-d14836?style=for-the-badge" alt="Email" /></a>
